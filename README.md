@@ -10,6 +10,7 @@ File ```.txt``` with phone numbers. Number must be look like ```+3801234567890``
 
 ## Output data
 File ```.txt``` with phone numbers, whice are registered in ```Telegram```
+
 File will be saved in place, where is original file.
 
 ## Others
