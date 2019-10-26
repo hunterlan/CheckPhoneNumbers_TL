@@ -2,7 +2,7 @@
 
 This a small programm, which check, if exist account in messenger ```Telegram```.
 
-It use C# API ```[TLSharp](https://github.com/sochix/TLSharp)```
+It use C# API [TLSharp](https://github.com/sochix/TLSharp)
 
 ## Input data
 File ```.txt``` with phone numbers. Number must be look like ```+3801234567890```, where:
